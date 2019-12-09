@@ -10,5 +10,3 @@ function decimalToBinary(num){
     
      return arr;  
 }
-
-console.log(decimalToBinary(38));
